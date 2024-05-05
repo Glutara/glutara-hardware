@@ -29,15 +29,9 @@ The beating heart: This repository houses the hardware blueprints for the Arduin
 </kbd>
 </a>
 
-<a href="https://www.bluetooth.com/">
-<kbd>
-<img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Ficons%2FBluetooth.png?alt=media&token=2634a992-eee1-44cf-bce7-13fe5f15e3ec" height="60" />
-</kbd>
-</a>
-
 </div>
 <div align="center">
-<h4>Arduino | ESP32 | Bluetooth</h4>
+<h4>Arduino | ESP32</h4>
 </div>
 
 ## Getting Started
