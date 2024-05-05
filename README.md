@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">Glutara Hardware</h1>
 
-The beating heart: This repository houses the hardware blueprints for the Arduino and ESP32 devices that power Glutara, serving as the vital link between sensor data and the cloud, enabling real-time monitoring and seamless data exchange. This repository code development is based on [This reference](https://github.com/oxullo/Arduino-MAX30100).
+The beating heart: This repository houses the hardware blueprints for the Arduino and ESP32 devices that power Glutara, serving as the vital link between sensor data and the cloud, enabling real-time monitoring and seamless data exchange. This repository code development is based on [this reference](https://github.com/oxullo/Arduino-MAX30100).
 
 ## 👨🏻‍💻 &nbsp;Technology Stack
 
